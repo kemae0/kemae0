@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.jpg" width="100%" alt="Lily DiPaulo banner">
+<!-- <img src="./banner.jpg" width="100%" alt="Lily DiPaulo banner"> --> 
 
 <br><br>
 
@@ -8,7 +8,7 @@
 <tr>
 <td align="center">
 
-# Lily DiPaulo
+# Lily D
 
 **Mathematics Ph.D. Student, University of Pittsburgh**
 
